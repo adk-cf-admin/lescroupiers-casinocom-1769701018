@@ -1,0 +1,200 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#FFFFFF",
+            "lang-select-color": "#222829",
+            "bg-light": "#29292A",
+            "welcome-bonus-bg": "#FFFFFF",
+            "top-games-hover-fg": "#222829",
+            "main-bg": "#f1efef",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#D23526",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#F5CE55",
+            "yellow": "#D23526",
+            "yellow-button": "#F5CE55",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#ffffff",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "providers-back": "#29292A",
+            "faq-label": "#ffffff",
+            "bg-footer": "#29292A",
+            "copyright": "#e7e7d5",
+            "starColor": "#D23526",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2303"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2308",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Les Croupiers Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2323",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Les Croupiers Casino"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-gb-en-GB",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "GB",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Les Croupiers Casino",
+                    "title": "Paf Casino Sverige: Licensierat kasino med bonusar och coola spel",
+                    "description": "Welcome to our casino for live dealers, iconic table games, fast-paced poker, and slots with big win potential. Enjoy great bar moments, comfortable downtime, and regular events. Play at your pace and unlock more benefits every time you visit.",
+                    "canonical": "lescroupiers-casino.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2317",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "lescroupiers-casino.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2318"
+                },
+                "hero": {
+                    "title": "Les Croupiers Casino — live tables, poker, and jackpot slots with a big-night atmosphere",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2319",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -3,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2320",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Generous welcome bonuses for new guests",
+                        "Big wins on slots and jackpots",
+                        "High limits for serious high rollers",
+                        "Live dealers with fast-paced action",
+                        "Wide tables: roulette and blackjack",
+                        "Poker room with lively cash games",
+                        "Comfortable vibe and attentive service"
+                    ],
+                    "advantagesAfterText": "We blend thrilling gaming with relaxed hospitality, so every visit feels seamless from arrival to cash-out. Play at your pace, take breaks in style, and enjoy the energy that keeps the night flowing.",
+                    "knowMore": "Know more",
+                    "appTitle": "Les Croupiers Casino App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2321",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Les Croupiers Casino App",
+                    "mobileGooglePlayImageTitle": "Les Croupiers Casino App",
+                    "mobileIosImageTitle": "Les Croupiers Casino App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Les Croupiers Casino",
+                        "description1": "We stand out with rare table favourites and a lively live-play atmosphere that feels special every night. With us, big-moment gaming and comfortable downtime fit together naturally.",
+                        "items": [
+                            "Bonus up to £500 instantly.",
+                            "Jackpot wins up to £250,000.",
+                            "Cash-out in minutes, smoothly."
+                        ],
+                        "description2": "Our casino brings together classic table games, modern slots, and the unmistakable buzz of live play. We shape an environment that feels welcoming for newcomers and rewarding for seasoned players. ",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2322",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "It’s easy to start the night on roulette, move into blackjack, and finish with fast, engaging poker. We focus on the small touches, from table service to comfortable rest areas. The energy stays high while the pace remains relaxed and enjoyable. Entertainment and great food complete the experience, so the evening feels effortless. We support your play with bonuses and special offers that add extra excitement. Our team keeps everything smooth, clear, and guest-friendly throughout. We value fair play, comfort, and memorable moments. Every return visit feels familiar, yet full of fresh chances to win."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "A night where play becomes an occasion",
+                        "description": "<p>\nIn our casino, it’s not only the game that matters, but the feeling of the whole night: confident, stylish, and genuinely alive. The atmosphere is warm yet electric, with a buzz at the tables and comfort in every break area. We balance lighting, music, and service so you can sink into the vibe without losing that sense of control. Whether you want a quiet corner between sessions or the main-floor energy, there’s a space that fits your mood.<\/p>\n<br>\n\n\n<p>\nWe’re open daily from 14:00 to 05:00, making it easy to plan your visit and play on your schedule. Afternoons suit relaxed slot sessions or a steady run at the tables. As the evening builds, the pace lifts with more players, more moments, and more excitement. Late nights bring the standout hands, the big decisions, and that special atmosphere where every chip feels sharper.\n<\/p>\n<br>\n<p>\nFor downtime and conversation, we offer bar areas that make it easy to pause between plays and celebrate the good runs. Dining is part of the experience here, not an afterthought: choose light bites with a drink or settle into a proper meal in comfort. We keep it effortless, so food and drink enhance your night rather than interrupt it. The result is a smooth flow from your first stake to your final toast.\n<\/p>\n<br>\n<p>\nStaying nearby is simple too, with convenient hotel options close to us that turn a visit into a full weekend escape. We love it when guests can relax without complicated planning. That’s why our setup works just as well for a spontaneous night as for a carefully planned break. You arrive, and the rest falls into place.\n<\/p>\n<br>\n<p>\nWe’re also known for events and entertainment that keep the calendar fresh week after week. Expect themed gaming nights, tournament days, seasonal moments, and special formats designed for groups. We create reasons to return: new themes, new energy, and new chances to win. And it all happens in a setting that feels comfortable from the moment you walk in.\n<\/p>\n<br>\n<p>\nFinally, we support your play with rewarding bonus offers and a benefit system designed to add real value to every visit. We recognise activity, consistency, and bigger sessions with stronger privileges. The more you play, the more personalised opportunities you unlock. That’s how our world becomes yours—familiar, rewarding, and always exciting.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nService that keeps your play confident\n<\/h3>\n\n<p>\nOur team is built around professionalism and comfort, keeping the thrill high while the experience stays smooth. We welcome guests warmly, help with membership, clarify game rules, and support your night without unnecessary formality. Our dealers run tables with precision and a friendly presence, keeping the pace enjoyable and the action clear. If you want to switch tables, check limits, or choose the right poker format, we’ll guide you quickly.\n<\/p>\n<br>\n\n\n<p>\nFor communication, our staff speak English confidently, and we make sure everything is easy to understand so you can focus on the game. We value clarity: how to place a bet, how to buy in, how to claim an offer, and how key conditions work. Whether you love the details or prefer to play instinctively, we keep information calm, simple, and respectful. The goal is that you feel comfortable in every interaction.\n<\/p>\n<br>\n<p>\nWe accept cash and widely used cashless payment options, so you can choose what suits you best. Buying chips and managing your gaming budget is designed to be quick and straightforward, keeping the focus on your night out. Our team can also point you to the smoothest method within standard safety rules. Everything is set up to minimise friction and maximise enjoyment.\n<\/p>\n<br>\n<p>\nIf you need access to cash, there are typically convenient options nearby that help you manage your evening budget with ease. We support responsible play, because the best nights are the ones you control: set a limit, choose your pace, and enjoy the atmosphere. For higher-value play, we help keep the process calm and well organised. Comfort, privacy, and clarity remain our priorities.\n<\/p>\n<br>\n<p>\nCashing out winnings is structured to be fast and transparent through our cashier desk, with identity checks required at certain thresholds. We focus on guest safety and regulated standards, so larger cash-outs may require documents. For players, winnings are generally not taxed, meaning you receive the outcome of your play without extra hurdles. If your personal circumstances are unusual, it’s sensible to consider them separately, while the overall approach remains straightforward.\n<\/p>\n<br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nVisiting rules — simple, clear, comfortable\n<\/h3>\n\n<p>\nWe keep our visiting rules straightforward, so you can focus on play and enjoy your night. Entry requires you to be of legal age and to bring valid identification. We maintain a stylish evening atmosphere, so a neat appearance is always appreciated. Inside, we value respectful behaviour towards guests and staff, with a calm tone and considerate manners. We protect fair play, so anything that disrupts others isn’t welcome. Photos and filming follow privacy rules to keep the room comfortable for everyone. At the tables, it’s important to follow the dealer’s guidance and standard betting order. We aim for a relaxed pace without losing the excitement of live action. Entry and membership are designed to be quick, keeping waiting to a minimum. Drivers benefit from convenient parking options nearby. Reaching us is easy by car, taxi, or public transport.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRules list\n<\/h4>\n\n <ul>\n            <li>• \nDress code: smart casual; neat shoes; a polished look that suits an evening out.\n<\/li>\n            <li>• \nEntry requirements: legal age; passport or driving licence; quick on-site membership.\n<\/li>\n            <li>• \nNot allowed: aggressive behaviour; interfering with games; playing on behalf of others; invading guest privacy; unauthorised devices at tables.\n<\/li>\n            <li>• \nTable etiquette: place bets at the correct time; respect dealer instructions; follow turn order and game flow.\n<\/li>\n\t    <li>• \nParking: convenient nearby parking; easy access to the entrance.\n<\/li>\n\t    <li>• \nGetting here: clear approach routes; easy navigation; simple arrival by taxi or public transport.\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nOur loyalty programme — more privileges with every session\n<\/h3>\n\n<p>\nOur loyalty programme is built for guests who love returning for the atmosphere, the games, and extra value on top. We turn your visits into tangible perks, from bonus rewards to tailored offers. Joining is quick, and benefits can start right away—you play, earn points, and unlock new tiers. The more you enjoy tables and machines, the more opportunities open up. We reward variety: slots, table games, and poker all count towards progress, so you stay free to play your favourite way. The programme helps you plan smarter, because your tier benefits are clear and easy to use. We also run special days where points build faster and rewards feel even better. Regular guests can receive personalised offers linked to frequent visits and bigger sessions. Our tiers are designed to feel meaningful: more rewards, more comfort, more individual attention. We keep the rules simple so you don’t waste time on fine print. And most importantly, the game stays at the centre—perks simply elevate the night.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegistration conditions\n<\/h4>\n\n <ul>\n            <li>• \nHow to join: sign up on-site with ID — £0, completed in minutes.\n<\/li>\n            <li>• \nWhat you need: passport or driving licence; basic contact details for tailored offers.\n<\/li>\n            <li>• \nInstant boost: +100 bonus points when your card is activated.\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTiers and how to reach them\n<\/h4>\n\n <ul>\n            <li>• \nBronze — from 0 points: standard earning, welcome offers, access to promotions.\n<\/li>\n            <li>• \nSilver — from 1,000 points: 5% points back on play, faster earning on promo days.\n<\/li>\n            <li>• \nGold — from 5,000 points: 10% points back, priority invites to tournaments and events.\n<\/li>\n            <li>• \nPlatinum — from 15,000 points: 15% points back, tailored limits and personalised offers.\n<\/li>\n\t    <li>• \nElite — from 30,000 points: 20% points back, maximum privileges, VIP service, signature nights.\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRewards and perks\n<\/h4>\n\n <ul>\n            <li>• \nRedeem points for chips\/credits: from 500 points = £5 in play value, a simple bankroll boost.\n<\/li>\n            <li>• \nCashback week: up to £100 back in points after an active week.\n<\/li>\n            <li>• \nDouble-points days: x2 earning on selected games and tables.\n<\/li>\n            <li>• \nTournament entries: tickets worth up to £50 for hitting tier goals.\n<\/li>\n\t    <li>• \nBirthday rewards: up to £25 plus our compliments.\n<\/li>\n\t    <li>• \nPersonal offers: tailored to your style—slots, poker, or table action.\n<\/li>\n        <\/ul><br>\n\n\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Entertainment and Gaming at Les Croupiers Casino",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses and special offers — more excitement every visit\n<\/h3>\n\n<p>\nAlongside our loyalty programme, we run regular bonuses and special offers that keep every visit fresh and energised. You’ll find newcomer perks, game-focused promo nights, and seasonal events with extra prizes. We love rewarding active play—the more you join in, the more chances you have to pick up a valuable bonus or land a standout win. On selected days, we boost slot action with bigger jackpot moments and additional prize draws. Table-game fans can enjoy themed nights with elevated energy and rewarding extras. Poker players get their own spotlight with guaranteed prize pools, bounty formats, and visit-based incentives. We often pair gaming promotions with entertainment touches, celebratory draws, special menus, and bar surprises. Seasonal campaigns add sparkle, turning holidays into high-impact nights out. Conditions stay clear, so you know exactly how to activate each offer. Our promotions are designed to enhance enjoyment, not distract from the game. And the best part—every guest has a real shot at their “big night”.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonuses and offers\n<\/h4>\n\n <ul>\n            <li>• \nWelcome bundle: bonus up to £500 + 20 free spins on selected slots—an ideal first session boost.\n<\/li>\n            <li>• \nSlot happy hours: 10% extra play bonus during selected hours—more spins, more chances.\n<\/li>\n            <li>• \nJackpot weekend: enhanced prize moments with wins up to £250,000 on jackpot machines—high-impact excitement.\n<\/li>\n            <li>• \nPoker festival series: guaranteed prizes from £1,000 to £10,000—stronger incentive, bigger atmosphere.\n<\/li>\n\t    <li>• \nBounty night: rewards up to £50 per knockout—fast, fun, and extra thrilling.\n<\/li>\n\t    <li>• \nRoulette event: streak prizes and instant bonuses up to £100—a satisfying bankroll lift.\n<\/li>\n\t    <li>• \nBlackjack challenge: up to £75 bonus for completing night goals—interactive table action.\n<\/li>\n\t    <li>• \nSeasonal celebrations: draws for gifts and chips up to £200, themed parties, and surprises—maximum vibe.\n<\/li>\n\t    <li>• \nEntertainment add-ons: drinks and bar compliments when you take part—comfort between hands.\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular games — classics, rare favourites, and live energy\n<\/h3>\n\n<p>\nIn our casino, you can match the game to your mood, from calm strategy to fast, high-impact decisions. We curate a strong mix so the night stays varied and always leaves room for a standout twist. Our live table games run with real pace, where emotion, focus, and the feel of a true table matter. Slots add quick sessions, bonus rounds, and genuine shots at big wins. Our poker space is its own world, where timing, reading the room, and smart pressure pay off. We keep it friendly for newcomers with clear guidance and staff ready to help when needed. For experienced players, variety and limits matter—and we offer formats for different styles. Electronic options suit those who love rapid bets and a steady rhythm. Atmosphere matters too: play feels fair, polished, and confident. You can blend formats in one visit, switching your vibe from session to session. We protect quality so the tables feel comfortable and decisions feel natural. And in every game, you get the core promise—real excitement and a real chance to win.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nGames\n<\/h4>\n\n <ul>\n            <li>• \nRoulette: classic table energy, streak momentum, and that unbeatable luck feeling.\n<\/li>\n            <li>• \nElectronic roulette: quick rhythm, easy flow, play at your own pace.\n<\/li>\n            <li>• \nBlackjack: strategy meets thrill, perfect for decision-driven players.\n<\/li>\n            <li>• \nPoker (cash games): live hands, competitive buzz, formats for every style.\n<\/li>\n\t    <li>• \nPoker (tournaments): prize battles, rising tension, exciting final tables.\n<\/li>\n\t    <li>• \nThree Card Poker: fast rounds and simple rules for a lively night.\n<\/li>\n\t    <li>• \nCraps (dice): a rare favourite, high energy, shared table excitement.\n<\/li>\n\t    <li>• \nPunto Banco: pure classic play, clean betting logic, elegant pace.\n<\/li>\n\t    <li>• \nSlots: huge variety, bonus features, jackpots, and punchy sessions.\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and maximum stakes — play at your level\n<\/h3>\n\n<p> \nWe make it easy to play cautiously or confidently big—you choose limits that match your style and mood. Minimum stakes help you settle in and test a strategy, while higher limits give space for serious sessions. Limits can vary by table and time to keep the room comfortable and flowing. Below are practical guide ranges for popular games, so you can plan your night with confidence.\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #D23526\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Game Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Electronic roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£200<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£2<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£1,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£2,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Three Card Poker<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£1,000<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Punto Banco<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£2,500<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Craps (dice)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£1,500<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£100<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Poker cash <\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£1,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Poker tournament<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£500<\/td>\n    <\/tr>\n\n  <\/tbody>\n<\/table>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEntertainment and shows — when the night becomes more than gaming\n<\/h3>\n\n<p>\nWe know how to make nights feel full: here, gaming naturally turns into a complete evening of music, energy, and entertainment. Our regular formats are designed so you can return on your favourite days and still get a fresh buzz each time. Some nights focus on poker intensity and tournament drama, others on table-game themes and atmospheric mini-events. We bring a “night out with style” feeling, where it’s easy to chat, relax, and celebrate the good moments.\n<\/p>\n<br>\n<p>\nFor guests who love late-night rhythm, we keep a club-style energy through music, peak hours, and a lively flow of people. Our night formats let you switch between gaming and dance-floor mood while staying in control of your own pace. You can spend time at the tables, move into entertainment areas, then jump back into play—the night shapes itself around you. We keep a balance so entertainment elevates the thrill rather than competing with it.\n<\/p>\n<br>\n<p>\nWe also put real attention into repeatable events, giving you reasons to come back: themed weeks, tournament series, special sessions, and festive dates. Seasonal show nights add a real “wow” factor, making the visit feel like an occasion rather than a routine stop. We love surprises too—draws, gifts, special invitations, and extra play opportunities. These touches deepen the experience and make each visit feel unique.\n<\/p>\n<br>\n<p>\nFinally, we offer a great vibe for groups, whether you’re celebrating something or simply bringing friends together. We know how to create the right momentum—from calm conversation to high-energy late hours. In this atmosphere, wins feel louder, emotions brighter, and memories stronger. Our goal is that you leave feeling you’ve truly had a brilliant night out.\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAll entertainment options\n<\/h4>\n\n <ul>\n            <li>• \nPoker series and tournament weeks: regular events with prize focus and final-table drama.\n<\/li>\n            <li>• \nThemed gaming nights: spotlight games with special formats and night surprises.\n<\/li>\n            <li>• \nLate-night music sets: club-style mood through peak hours.\n<\/li>\n            <li>• \nSeasonal show evenings: festive vibe, added activities, and prize draws.\n<\/li>\n\t    <li>• \nSports screenings: big matches on screens, perfect alongside your break.\n<\/li>\n\t    <li>• \nGroup formats: celebrations, shout-outs, and tailored night-out scenarios.\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBars, dining, and downtime — a tasty pause between winning moments\n<\/h3>\n\n<p>\nWe believe the best night is all about balance: gaming, relaxing, socialising, and great flavours in between. That’s why taking a break here never feels like losing momentum—you step away from the stakes into comfort, then return to the tables refreshed. Our bar areas make pauses feel stylish, whether it’s a quick drink between hands or a calm chat after a strong run. We keep the vibe so downtime feels like part of the night, not a pause in it.\n<\/p>\n<br>\n<p>\nOur dining options are designed to keep the evening flowing: food and drink enhance the experience and support the rhythm of your visit. Choose something light so you can jump back into play, or settle into a proper meal and make the night feel like a real occasion. We value attentive, efficient service, so comfort stays consistent at any hour. This approach helps nights feel longer and moods stay high.\n<\/p>\n<br>\n<p>\nIf you’re planning to stay out late, it’s easy to arrange a nearby hotel stay and extend the break into the next day. It’s a brilliant option for weekends and special moments when you don’t want to rush. We love when a visit becomes part of a bigger getaway and leaves you with lasting memories. That’s why our setup works for both spontaneous nights and carefully planned plans.\n<\/p>\n<br>\n<p>\nOverall, downtime with us is about freedom of choice: play hard, relax slowly, blend excitement with comfort. You decide what your night looks like—we provide the setting to make it happen. And in every version, you get the same core promise: an atmosphere worth returning to. Whether it’s a short stop or a full night, it’s designed to feel special.\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAll places to unwind\n<\/h4>\n\n <ul>\n            <li>• \nBar areas: drinks, quick breaks, comfortable conversation.\n<\/li>\n            <li>• \nDining area: proper meals and comfortable seating for longer nights.\n<\/li>\n            <li>• \nRelax zones: reset your pace and return to play refreshed.\n<\/li>\n            <li>• \nNearby hotels: an easy option for an overnight stay and weekend break.\n<\/li>\n\n        <\/ul><br>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Do I need membership?",
+                            "answer": "Yes, membership is quick on-site and unlocks play access and offers."
+                        },
+                        {
+                            "title": "Which IDs are accepted?",
+                            "answer": "A passport or driving licence; extra identity checks may apply for larger amounts."
+                        },
+                        {
+                            "title": "How fast can I cash out winnings?",
+                            "answer": "Cash-out runs through our cashier with a clear process, typically fast and smooth."
+                        },
+                        {
+                            "title": "Do you show live sports?",
+                            "answer": "Yes, major sporting moments are often available on screens for added entertainment."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
